@@ -2,14 +2,10 @@ package saidmb;
 
 public class Main {
     public static void main(String[] args) {
-        iniciarPrograma();
+        System.out.println("Cambio desde IntelliJ conflicto");
 
         mostrarSaludo("Juan");
         despedirUsuario("Juan");
-    }
-
-    private static void iniciarPrograma() {
-        System.out.println("Programa iniciado desde GitHub");
     }
 
     public static void mostrarSaludo(String nombre) {
