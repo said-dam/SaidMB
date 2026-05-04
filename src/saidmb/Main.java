@@ -10,6 +10,7 @@ public class Main {
 
     private static void iniciarPrograma() {
         System.out.println("Cambio desde GitHub conflicto");
+        
     }
 
     public static void mostrarSaludo(String nombre) {
