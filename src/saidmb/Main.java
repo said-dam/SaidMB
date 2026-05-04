@@ -9,7 +9,7 @@ public class Main {
     }
 
     private static void iniciarPrograma() {
-        System.out.println("Programa iniciado");
+        System.out.println("Programa iniciado desde GitHub");
     }
 
     public static void mostrarSaludo(String nombre) {
